@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A0DAD,100:7F5AF0&text=Dheeraj%20Thumma&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Analyst&descAlignY=60" />
 </p>
