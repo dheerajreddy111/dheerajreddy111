@@ -1,72 +1,79 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,50:6A0DAD,100:7F5AF0&text=Dheeraj%20Thumma&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Analyst&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A0DAD,100:7F5AF0&text=Dheeraj%20Thumma&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Data%20Analyst&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Production-Ready+AI+Systems;Data+Analytics+%26+Business+Intelligence;FastAPI+%7C+Machine+Learning+%7C+RAG;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Production+Ready+AI+Applications;Data+Analytics+%26+Business+Intelligence;Backend+Engineering+with+FastAPI;Machine+Learning+%26+Generative+AI"/>
+
+# Hi, I'm Dheeraj Thumma 👋
+
+### Software Engineer • AI Engineer • Data Analyst
+
+Building AI-powered applications, scalable backend systems, and data-driven analytics solutions.
 
 <p>
-<a href="mailto:dheeraj.thumma9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/dheerajreddythumma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/dheerajreddy111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:dheeraj.thumma9@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/dheerajreddythumma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/dheerajreddy111"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=dheerajreddy111&style=for-the-badge&color=6A0DAD"/>
 
 </div>
 
-# 👋 About Me
+---
 
-Computer Science graduate passionate about **Artificial Intelligence, Data Analytics, Backend Engineering, and Machine Learning**.
+## 👨‍💻 About Me
 
-- 🤖 Building production-ready AI applications
-- 📊 Turning data into actionable business insights
-- ⚙️ Developing scalable backend APIs with FastAPI
-- 📈 Creating dashboards and analytics platforms
+Computer Science graduate with hands-on experience in **Data Analytics, Artificial Intelligence, Machine Learning, and Backend Engineering**. I build production-ready AI systems, scalable ETL pipelines, analytics dashboards, and backend services using Python, SQL, FastAPI, PostgreSQL, and modern AI frameworks.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=python,sql,javascript"/></p>
+<p><img src="https://skillicons.dev/icons?i=python,sql"/></p>
 
-### AI & ML
-<p><img src="https://skillicons.dev/icons?i=fastapi"/></p>
+### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=fastapi,postgres,git,github"/></p>
 
-`LangChain` • `LangGraph` • `ChromaDB` • `LightGBM` • `Scikit-Learn` • `Optuna`
+### AI / ML
+- LangChain
+- LangGraph
+- ChromaDB
+- LightGBM
+- Scikit-Learn
+- Optuna
 
-### Data
-`Pandas` • `Power BI` • `Tableau` • `ETL` • `PostgreSQL` • `SQLite`
-
-### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode"/></p>
+### Data Analytics
+- Pandas
+- Tableau
+- Power BI
+- ETL Pipelines
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<details open>
+<details>
 <summary><b>⚖️ LawFlow – Legal RAG Platform</b></summary>
 
+- Production-grade Legal RAG Platform
 - Hybrid Retrieval (BM25 + Dense Embeddings + RRF)
-- Cross-Encoder Reranking
-- LangGraph orchestration
+- LangGraph Workflow
 - FastAPI + PostgreSQL
 - JWT Authentication
-- Multi-LLM Support (Claude/OpenAI/Groq)
-- Improved retrieval accuracy **62.5% → 75%**
+- Multi-LLM Support
+- Improved retrieval accuracy from **62.5% → 75.0%**
 
 </details>
 
 <details>
 <summary><b>📊 Mutual Fund Analytics Platform</b></summary>
 
-- Processed **64K+ NAV records**
-- Analyzed **32K+ investor transactions**
-- Automated ETL pipelines
+- Processed **64K+ NAV Records**
+- Analyzed **32K+ Investor Transactions**
+- ETL Pipelines
 - Portfolio & Risk Analytics
 - Recommendation Engine
-- Tableau dashboards
+- Tableau Dashboards
 
 </details>
 
@@ -76,53 +83,48 @@ Computer Science graduate passionate about **Artificial Intelligence, Data Analy
 - LightGBM
 - Feature Engineering
 - SMOTE
-- Optuna
+- Optuna Hyperparameter Tuning
 - ROC-AUC **97.9%**
 
 </details>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### Data Analyst Intern — Bluestock Fintech
 
-- Built end-to-end Mutual Fund Analytics Platform
-- Designed ETL pipelines and validation frameworks
-- Developed Tableau dashboards
-- Implemented portfolio analytics and recommendation engine
+- Built end-to-end Mutual Fund Analytics Platform.
+- Developed ETL pipelines and validation frameworks.
+- Processed 64K+ NAV records and 32K+ investor transactions.
+- Built Tableau dashboards for business insights.
+- Developed a rule-based recommendation engine.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- 🎓 Stanford & DeepLearning.AI – Supervised Machine Learning
-- 🎓 Stanford & DeepLearning.AI – Advanced Learning Algorithms
-- 🏅 DataCamp – Data Analyst Professional
-- ☁️ AWS – Cloud Essentials & Generative AI
-- 💻 HackerRank – SQL (Advanced)
+- Stanford & DeepLearning.AI – Supervised Machine Learning
+- Stanford & DeepLearning.AI – Advanced Learning Algorithms
+- DataCamp – Data Analyst Professional
+- AWS – Cloud Essentials & Generative AI
+- HackerRank – SQL (Advanced)
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dheerajreddy111&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajreddy111&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajreddy111&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
-
 *"Turning data into insights and ideas into intelligent software."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:7F5AF0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4B0082,50:6A0DAD,100:7F5AF0"/>
 
 </div>
