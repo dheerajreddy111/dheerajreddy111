@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Production+Ready+AI+Applications;Data+Analytics+%26+Business+Intelligence;Backend+Engineering+with+FastAPI;Machine+Learning+%26+Generative+AI"/>
 
-### Software Engineer • AI Engineer • Data Analyst
-
 Building AI-powered applications, scalable backend systems, and data-driven analytics solutions.
 
 <p>
