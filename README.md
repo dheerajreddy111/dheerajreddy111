@@ -112,15 +112,6 @@ Computer Science graduate with hands-on experience in **Data Analytics, Artifici
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dheerajreddy111&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajreddy111&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <div align="center">
 
 *"Turning data into insights and ideas into intelligent software."*
